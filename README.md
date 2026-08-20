@@ -1,4 +1,4 @@
-# 👟 Shoe-MERN E-Commerce Website
+# Shoe-MERN E-Commerce Website
 
 A full-stack **shoe selling e-commerce website** built using the **MERN stack** with **Razorpay payment integration**.
 
@@ -105,12 +105,3 @@ http://localhost:3000
 - Shopping cart and checkout functionality
 - Clean frontend and backend structure
 
-## 👨‍💻 Author
-
-**Murugavel V**
-
-Computer Science Engineering Student
-
-## 📄 License
-
-This project is available under the MIT License.
