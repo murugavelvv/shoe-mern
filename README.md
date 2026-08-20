@@ -1,4 +1,4 @@
-# Shoe-MERN E-Commerce Website
+# MERN E-Commerce Website
 
 A full-stack **shoe selling e-commerce website** built using the **MERN stack** with **Razorpay payment integration**.
 
